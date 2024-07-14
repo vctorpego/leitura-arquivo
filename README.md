@@ -45,7 +45,6 @@ O projeto é composto por um arquivo principal main.c, que contém a lógica do 
 ```c
 Pais1    herois_pais1.txt    viloes_pais1.txt
 Pais2    herois_pais2.txt    viloes_pais2.txt
-
 ```
 
 `herois.txt`
@@ -73,7 +72,7 @@ gcc main.c -o leitura_arquivos
 - **Execute o programa:**
 ./leitura_arquivos
 
-**Observação:**
+- **Observação:**
 Certifique-se de que os arquivos paises.txt, herois.txt e viloes.txt estejam no mesmo diretório que o executável.
 
 Sinta-se à vontade para ajustar qualquer parte conforme necessário! Se precisar de mais alguma coisa, é só avisar.
