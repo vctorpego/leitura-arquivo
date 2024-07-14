@@ -1,0 +1,3 @@
+Brasil herois_brasil.txt viloes_brasil.txt
+Franca herois_franca.txt viloes_franca.txt
+Japao herois_japao.txt viloes_japao.txt
