@@ -45,6 +45,7 @@ O projeto é composto por um arquivo principal main.c, que contém a lógica do 
 ```c
 Pais1    herois_pais1.txt    viloes_pais1.txt
 Pais2    herois_pais2.txt    viloes_pais2.txt
+
 ```
 
 `herois.txt`
@@ -60,16 +61,16 @@ Vilao2    Poder2    85.0    1.80    4
 ```
 
 ## Como usar
-**Clone o repositório:**
+- **Clone o repositório:**
 git clone https://github.com/seuusuario/seurepositorio.git
 
-**Navegue até o diretório do projeto:**
+- **Navegue até o diretório do projeto:**
 cd seurepositorio
 
-**Compile o programa:**
+- **Compile o programa:**
 gcc main.c -o leitura_arquivos
 
-**Execute o programa:**
+- **Execute o programa:**
 ./leitura_arquivos
 
 **Observação:**
