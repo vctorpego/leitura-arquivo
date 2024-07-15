@@ -42,19 +42,19 @@ O projeto é composto por um arquivo principal main.c, que contém a lógica do 
 
 ## Exemplo de arquivo
 `paises.txt`
-```c
+```text
 Pais1    herois_pais1.txt    viloes_pais1.txt
 Pais2    herois_pais2.txt    viloes_pais2.txt
 ```
 
 `herois.txt`
-```c
+```text
 Heroi1    Poder1    70.5    1.75    1
 Heroi2    Poder2    80.0    1.80    2
 ```
 
 `viloes.txt`
-```c
+```text
 Vilao1    Poder1    90.0    1.85    5
 Vilao2    Poder2    85.0    1.80    4
 ```
