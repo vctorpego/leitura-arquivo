@@ -8,7 +8,7 @@ Este projeto de Leitura de Arquivos em Linguagem C foi proposto pela disciplina 
 - **Análises Estatísticas**: O programa identifica países com mais heróis do que vilões e determina quais heróis possuem a maior classificação em cada país.
 - **Filtragem por Individualidade**: É possível filtrar e listar heróis cuja individualidade contém a letra "M", permitindo uma análise mais específica.
 
-Estrutura do Projeto
+## Estrutura do Projeto
 O projeto é composto por um arquivo principal main.c, que contém a lógica do sistema, e arquivos de entrada como paises.txt, herois.txt e viloes.txt, que devem ser criados para alimentar o sistema.
 
 ## Estruturas de dados
@@ -40,7 +40,7 @@ O projeto é composto por um arquivo principal main.c, que contém a lógica do 
   } Pais;
 ```
 
-## Exemplo de arquivo
+## Exemplos de arquivos
 `paises.txt`
 ```text
 Pais1    herois_pais1.txt    viloes_pais1.txt
